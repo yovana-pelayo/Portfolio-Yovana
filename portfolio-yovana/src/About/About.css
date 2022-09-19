@@ -1,0 +1,29 @@
+.about-container {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.about-box{
+    width: 300px;
+    height: 250px;
+    border: 3px solid #ccc;
+    background: #eee;
+    margin: auto;
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: row;
+    /* border: solid 2px black;
+    width: 300px;
+    height:100px; */
+}
+img {
+   width: 100px;
+   height: 100px;
+   padding-right:30%;
+   margin-left: 2%;
+}
+p {
+    width:500px;
+    height: 100px;
+ }
+
