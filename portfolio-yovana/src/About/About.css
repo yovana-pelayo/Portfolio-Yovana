@@ -1,29 +1,23 @@
 .about-container {
-    display: flex;
+display: flex;
 flex-direction: column;
 justify-content: center;
 }
-.about-box{
-    width: 300px;
-    height: 250px;
-    border: 3px solid #ccc;
-    background: #eee;
-    margin: auto;
-    padding: 15px 10px;
-    display: flex;
-    flex-direction: row;
-    /* border: solid 2px black;
-    width: 300px;
-    height:100px; */
-}
+.about-box {
+display: flex;
+   flex-direction: row;
+   justify-content: center;
+   }
 img {
-   width: 100px;
-   height: 100px;
-   padding-right:30%;
-   margin-left: 2%;
+   width:150px;
+   height: 150px;
+
 }
-p {
-    width:500px;
-    height: 100px;
- }
+.summary {
+    text-align: start;
+    width: 300px;
+    height: 150px;
+    color: rgb(3, 96, 29);
+   margin-left: 5%;
+}
 
