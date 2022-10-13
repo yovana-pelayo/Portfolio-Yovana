@@ -1,0 +1,8 @@
+
+/* .items-container {
+    max-height: 5px !important;
+   } */
+.items-container img {
+    max-height: 40vh;
+    max-width: 200px !important;
+}

@@ -1,4 +1,3 @@
-import About from '../About/About';
 import './Header.css';
 
 function Header () {
@@ -8,7 +7,6 @@ function Header () {
         <h2>Full Stack Software Developer 
         </h2>
         <h3> Portland, OR</h3>
-        <About/>
       </div>
      )
 }
