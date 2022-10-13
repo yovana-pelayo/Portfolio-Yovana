@@ -5,7 +5,7 @@ import './Gallery.css';
 export default function Gallery(){
   return (
     <div className='items-container'> 
-    <Carousel className='items' breakpoint={800} cols={2} rows={1} gap={0} loop>
+    <Carousel className='items' cols={2} rows={1} gap={0} loop>
       <Carousel.Item>
         <img src='../assets/fire.jpg' alt='camping' />
       </Carousel.Item>

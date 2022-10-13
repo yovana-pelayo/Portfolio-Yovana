@@ -3,6 +3,7 @@
     max-height: 5px !important;
    } */
 .items-container img {
-    max-height: 40vh;
-    max-width: 200px !important;
+    max-height:450px;
+    max-width: 500px;
+    width: 100%;
 }
